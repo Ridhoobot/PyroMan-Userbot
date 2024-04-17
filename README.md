@@ -1,5 +1,11 @@
 # PyroMan-Userbot Telegram
 
+## Deploy on Heroku
+<h3 align="center">Click The Button</h3>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Ridhoobot/PyroMan-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+</div>
+
+
 PyroMan-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
